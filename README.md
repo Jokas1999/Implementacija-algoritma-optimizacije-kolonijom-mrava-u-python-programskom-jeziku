@@ -1,3 +1,3 @@
-# Implementacija-algoritma-optimizacije-kolonijom-mrava-u-python-programskom-jeziku
+# Implementacija-algoritma-optimizacije-kolonijom-mrava-u-python-programskom-jez
 
-Završni rad 
+Implementacija algoritma TSP i CVRP u sklopu završnog rada
